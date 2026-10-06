@@ -1,15 +1,15 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://linkedin.com/in/andrey-pavlushov">
-  <img align="left" alt="LinkdeIn" width="22px" src="https://github.com/kraislerrr/cv/blob/main/icons/linkedin-circled--v1.png" />
+  <img align="left" alt="LinkdeIn" width="22px" src="https://github.com/AMPVIP/ampvip.github.io/blob/main/icons/linkedin-circled--v1.png" />
 </a>
 <a href="https://t.me/ampvip">
-  <img align="left" alt="Abhishek's Telegram" width="22px" src="https://github.com/kraislerrr/cv/blob/main/icons/telegram-app--v1.png" />
+  <img align="left" alt="Abhishek's Telegram" width="22px" src="https://github.com/AMPVIP/ampvip.github.io/blob/main/icons/telegram-app--v1.png" />
 </a>
 <a href="https://vk.com/id16004466">
-  <img align="left" alt="VKontakte" width="22px" src="https://github.com/kraislerrr/cv/blob/main/icons/vk-circled.png" />
+  <img align="left" alt="VKontakte" width="22px" src="https://github.com/AMPVIP/ampvip.github.io/blob/main/icons/vk-circled.png" />
 </a>
 <a href="https://www.instagram.com/ampvip">
-  <img align="left" alt="Instagram" width="22px" src="https://github.com/kraislerrr/cv/blob/main/icons/instagram-new--v1.png" />
+  <img align="left" alt="Instagram" width="22px" src="https://github.com/AMPVIP/ampvip.github.io/blob/main/icons/instagram-new--v1.png" />
 </a>
 
 <br />
@@ -18,7 +18,7 @@
 
 <br />
 
-<img align="right" alt="GIF" src="https://github.com/kraislerrr/cv/blob/main/icons/matrix.gif" width="400" height="280" />
+<img align="right" alt="GIF" src="https://github.com/AMPVIP/ampvip.github.io/blob/main/icons/matrix.gif" width="400" height="280" />
   
 **Languages and Tools:**  
 
